@@ -1,0 +1,45 @@
+{
+  "name":"RCB",
+  "location":"Ban",
+  "player":[
+  
+  {
+       "name":"duples",
+       "country":"SA",
+       "role":"Batsman",
+       "price":"2"
+       
+   },
+       
+       {
+       "name":"virat",
+       "country":"India",
+       "role":"Batsman",
+       "price":"5"
+       
+   },
+   
+   {
+       "name":"maxwell",
+       "country":"Aus",
+       "role":"Batsman",
+       "price":"4"
+       
+   },
+         {
+       "name":"siraj",
+       "country":"India",
+       "role":"Bowl",
+       "price":"1"
+       
+   },
+   {
+       "name":"Wanindu Hasaranga",
+       "country":"srilanka",
+       "role":"Bowl",
+       "price":"3"
+       
+   }
+   ]
+   }
+
